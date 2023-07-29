@@ -1,0 +1,2 @@
+# Simon-Game
+To Play this Game, you need to start by pressing any key and observe the colour that is blink and press that colour followed by all the previous colours that had blinked already. For Example: I press any key and then a red colour is blink then I have to click on red colour. Now, then In next level a yellow colour is blink then I have to click on red color and then on yellow colour and so on.
